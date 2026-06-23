@@ -1,12 +1,40 @@
 {
   "titleKeywords": [
-    "海绵体"
+    "海绵体",
+    "建模副业"
   ],
-  "authorKeywords": [],
+  "authorKeywords": [
+    "建模副业",
+    "爱弥斯的猫"
+  ],
   "authorExactNames": [
     "不强识的张松",
     "神里劈鹤观",
-    "对子哈特千美"
+    "对子哈特千美",
+    "小草神_玩了五年原神",
+    "汐将军南下罢",
+    "牢面簌挪",
+    "阿秋不会玩_",
+    "提瓦特第一肘",
+    "楠知Genshin",
+    "月影の庭",
+    "灵境何时六月寒丶",
+    "我是红果大王",
+    "弦振KatsuraUki",
+    "丫哈哈_",
+    "么抖",
+    "神秘发图人",
+    "元气六六酱",
+    "分享美图的凤九祥",
+    "ハナビ様",
+    "小芋头图图",
+    "二游图Asuka",
+    "大京府2025",
+    "妮露玉金玉",
+    "22M33",
+    "小石在哪里a",
+    "汐入雾雨",
+    "喜欢长离捏"
   ],
   "videoLinks": [
     "BV1XTEZ61ENZ",
@@ -17,6 +45,20 @@
     "BV1NRGY6TEME",
     "BV1TZJF6AEE9",
     "BV1YNJS6XE3E",
-    "BV1XK7W6ZE5E"
+    "BV1XK7W6ZE5E",
+    "BV1UWEE68E94",
+    "BV1SI7C6EEEY",
+    "BV1TGJ16SESA",
+    "BV1EQWKZUED3",
+    "BV1FEBFBZES4",
+    "BV1OHYNZGEFZ",
+    "BV1OAIWBREJ4",
+    "BV1BEEQ6JEIP",
+    "BV1NDIGBEEBU",
+    "BV1VKQSBBE9Y",
+    "BV1Y4VXBYETC",
+    "BV1YJZQBCEWC",
+    "BV19YT4ZXE3P",
+    "BV1YVXJBAE1R"
   ]
 }
