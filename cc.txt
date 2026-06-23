@@ -4,6 +4,17 @@
     "建模副业",
     "梅川内酷"
   ],
+  "titleCombinedKeywords": [
+    "原神/鸣潮",
+    "原神/爆料",
+    "鸣潮/爆料",
+    "绝区零/爆料",
+    "鸣潮/诈骗",
+    "原神/诈骗",
+    "鸣潮/数值膨胀",
+    "崩铁/数值膨胀",
+    "原神/数值膨胀"
+  ],
   "authorKeywords": [
     "建模副业",
     "爱弥斯的猫"
@@ -40,7 +51,11 @@
     "-影子a",
     "上茶__",
     "wumiya_",
-    "风語"
+    "风語",
+    "木偶の喵喵",
+    "爱姬大魔王",
+    "爱玩游戏的止枫",
+    "新游热游百晓生"
   ],
   "videoLinks": [
     "BV1XTEZ61ENZ",
@@ -79,6 +94,10 @@
     "BV1HWAMZSEA2",
     "BV1AU7Y6DEK6",
     "BV16HPTZHETP",
-    "BV18E65BOEPN"
+    "BV18E65BOEPN",
+    "BV1CXJX6HE3F",
+    "BV1BAAKZGENJ",
+    "BV1VKJE68EXE",
+    "BV1HHVW6PEMW"
   ]
 }
